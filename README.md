@@ -13,3 +13,4 @@ teste usando a branch-02-v3
 teste usando a branch-02-v4
 
 teste da branch main
+teste de criação de tag
